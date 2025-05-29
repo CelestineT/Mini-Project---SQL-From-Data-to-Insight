@@ -1,0 +1,222 @@
+borough,neighbourhood,total_listings_neighbourhood,total_listings_borough,neighbourhood_share
+brooklyn,williamsburg,3918,20088,19.5042
+brooklyn,bedford-stuyvesant,3709,20088,18.4638
+queens,astoria,899,5662,15.8778
+"staten island","st. george",48,373,12.8686
+manhattan,harlem,2657,21652,12.2714
+brooklyn,bushwick,2460,20088,12.2461
+"staten island",tompkinsville,42,373,11.2601
+queens,"long island city",537,5662,9.4843
+manhattan,"upper west side",1969,21652,9.0938
+manhattan,"hell's kitchen",1957,21652,9.0384
+manhattan,"east village",1852,21652,8.5535
+manhattan,"upper east side",1797,21652,8.2995
+brooklyn,"crown heights",1564,20088,7.7857
+queens,flushing,426,5662,7.5238
+queens,ridgewood,423,5662,7.4709
+"staten island",stapleton,27,373,7.2386
+manhattan,midtown,1545,21652,7.1356
+"staten island",concord,26,373,6.9705
+bronx,kingsbridge,70,1089,6.4279
+queens,sunnyside,363,5662,6.4112
+bronx,fordham,63,1089,5.7851
+bronx,longwood,62,1089,5.6933
+"staten island",arrochar,21,373,5.6300
+brooklyn,greenpoint,1112,20088,5.5356
+bronx,"mott haven",60,1089,5.5096
+queens,"ditmars steinway",309,5662,5.4574
+manhattan,"east harlem",1117,21652,5.1589
+manhattan,chelsea,1113,21652,5.1404
+"staten island","randall manor",19,373,5.0938
+"staten island","west brighton",18,373,4.8257
+bronx,wakefield,50,1089,4.5914
+bronx,concourse,50,1089,4.5914
+bronx,"port morris",46,1089,4.2241
+manhattan,"lower east side",911,21652,4.2075
+queens,elmhurst,237,5662,4.1858
+manhattan,"washington heights",899,21652,4.1520
+queens,woodside,235,5662,4.1505
+queens,jamaica,229,5662,4.0445
+"staten island",clifton,15,373,4.0214
+bronx,allerton,42,1089,3.8567
+bronx,williamsbridge,40,1089,3.6731
+bronx,parkchester,39,1089,3.5813
+manhattan,"west village",768,21652,3.5470
+manhattan,"financial district",744,21652,3.4362
+queens,"jackson heights",186,5662,3.2851
+queens,"east elmhurst",185,5662,3.2674
+brooklyn,flatbush,621,20088,3.0914
+bronx,"concourse village",32,1089,2.9385
+brooklyn,"clinton hill",572,20088,2.8475
+bronx,norwood,31,1089,2.8466
+"staten island","great kills",10,373,2.6810
+brooklyn,"prospect-lefferts gardens",535,20088,2.6633
+bronx,"claremont village",28,1089,2.5712
+bronx,"pelham gardens",28,1089,2.5712
+queens,"forest hills",144,5662,2.5433
+brooklyn,"park slope",506,20088,2.5189
+brooklyn,"east flatbush",500,20088,2.4890
+brooklyn,"fort greene",489,20088,2.4343
+"staten island","port richmond",9,373,2.4129
+bronx,highbridge,26,1089,2.3875
+manhattan,"murray hill",484,21652,2.2354
+bronx,"throgs neck",24,1089,2.2039
+bronx,belmont,24,1089,2.2039
+manhattan,"kips bay",469,21652,2.1661
+"staten island","mariners harbor",8,373,2.1448
+"staten island","new springville",8,373,2.1448
+"staten island","south beach",8,373,2.1448
+queens,maspeth,110,5662,1.9428
+brooklyn,"sunset park",389,20088,1.9365
+bronx,"clason point",21,1089,1.9284
+bronx,"university heights",21,1089,1.9284
+"staten island","dongan hills",7,373,1.8767
+"staten island","grymes hill",7,373,1.8767
+"staten island","shore acres",7,373,1.8767
+"staten island",tottenville,7,373,1.8767
+"staten island",rosebank,7,373,1.8767
+queens,"rego park",106,5662,1.8721
+bronx,"mount hope",20,1089,1.8365
+manhattan,"greenwich village",392,21652,1.8105
+brooklyn,"prospect heights",357,20088,1.7772
+bronx,bronxdale,19,1089,1.7447
+manhattan,chinatown,368,21652,1.6996
+queens,"richmond hill",94,5662,1.6602
+bronx,"city island",18,1089,1.6529
+bronx,"hunts point",18,1089,1.6529
+bronx,morrisania,18,1089,1.6529
+manhattan,soho,357,21652,1.6488
+"staten island","grant city",6,373,1.6086
+"staten island","midland beach",6,373,1.6086
+"staten island","bull's head",6,373,1.6086
+manhattan,"morningside heights",346,21652,1.5980
+bronx,"pelham bay",17,1089,1.5611
+bronx,"morris heights",17,1089,1.5611
+manhattan,gramercy,338,21652,1.5611
+queens,woodhaven,87,5662,1.5366
+queens,"springfield gardens",85,5662,1.5012
+brooklyn,"south slope",284,20088,1.4138
+bronx,"morris park",15,1089,1.3774
+bronx,soundview,15,1089,1.3774
+queens,arverne,77,5662,1.3599
+queens,"st. albans",76,5662,1.3423
+"staten island","emerson hill",5,373,1.3405
+"staten island","new dorp beach",5,373,1.3405
+"staten island",oakwood,5,373,1.3405
+"staten island","new brighton",5,373,1.3405
+manhattan,"theater district",288,21652,1.3301
+brooklyn,gowanus,247,20088,1.2296
+bronx,edenwald,13,1089,1.1938
+bronx,schuylerville,13,1089,1.1938
+bronx,eastchester,13,1089,1.1938
+manhattan,nolita,253,21652,1.1685
+manhattan,inwood,252,21652,1.1639
+brooklyn,"carroll gardens",233,20088,1.1599
+queens,corona,64,5662,1.1303
+bronx,fieldston,12,1089,1.1019
+queens,"ozone park",62,5662,1.0950
+brooklyn,"east new york",218,20088,1.0852
+"staten island","castleton corners",4,373,1.0724
+"staten island","todt hill",4,373,1.0724
+"staten island","prince's bay",4,373,1.0724
+"staten island","arden heights",4,373,1.0724
+queens,"queens village",60,5662,1.0597
+queens,rosedale,59,5662,1.0420
+bronx,tremont,11,1089,1.0101
+bronx,woodlawn,11,1089,1.0101
+bronx,"van nest",11,1089,1.0101
+bronx,riverdale,11,1089,1.0101
+queens,"rockaway beach",56,5662,0.9890
+queens,briarwood,56,5662,0.9890
+queens,glendale,54,5662,0.9537
+bronx,"westchester square",10,1089,0.9183
+bronx,"north riverdale",10,1089,0.9183
+bronx,melrose,10,1089,0.9183
+brooklyn,"boerum hill",177,20088,0.8811
+brooklyn,kensington,175,20088,0.8712
+bronx,"castle hill",9,1089,0.8264
+bronx,"east morrisania",9,1089,0.8264
+manhattan,tribeca,177,21652,0.8175
+brooklyn,"sheepshead bay",164,20088,0.8164
+"staten island",eltingville,3,373,0.8043
+"staten island",graniteville,3,373,0.8043
+"staten island",huguenot,3,373,0.8043
+brooklyn,"windsor terrace",157,20088,0.7816
+brooklyn,"brooklyn heights",154,20088,0.7666
+brooklyn,canarsie,147,20088,0.7318
+queens,"south ozone park",40,5662,0.7065
+brooklyn,"bay ridge",141,20088,0.7019
+queens,bayside,39,5662,0.6888
+brooklyn,"borough park",136,20088,0.6770
+brooklyn,"cypress hills",135,20088,0.6720
+bronx,unionport,7,1089,0.6428
+bronx,baychester,7,1089,0.6428
+queens,"kew gardens",32,5662,0.5652
+queens,"fresh meadows",32,5662,0.5652
+manhattan,"little italy",121,21652,0.5588
+bronx,"mount eden",6,1089,0.5510
+queens,"middle village",31,5662,0.5475
+brooklyn,midwood,109,20088,0.5426
+"staten island","lighthouse hill",2,373,0.5362
+"staten island","silver lake",2,373,0.5362
+"staten island",westerleigh,2,373,0.5362
+"staten island","bay terrace, staten island",2,373,0.5362
+"staten island","howland hook",2,373,0.5362
+queens,"far rockaway",29,5662,0.5122
+brooklyn,"cobble hill",99,20088,0.4928
+queens,"kew gardens hills",26,5662,0.4592
+queens,"cambria heights",26,5662,0.4592
+brooklyn,flatlands,83,20088,0.4132
+brooklyn,"downtown brooklyn",83,20088,0.4132
+brooklyn,"red hook",79,20088,0.3933
+brooklyn,bensonhurst,75,20088,0.3734
+brooklyn,"brighton beach",75,20088,0.3734
+manhattan,"flatiron district",80,21652,0.3695
+bronx,olinville,4,1089,0.3673
+bronx,"spuyten duyvil",4,1089,0.3673
+manhattan,noho,78,21652,0.3602
+manhattan,"roosevelt island",77,21652,0.3556
+queens,"howard beach",20,5662,0.3532
+brooklyn,gravesend,68,20088,0.3385
+queens,"jamaica estates",19,5662,0.3356
+queens,"college point",19,5662,0.3356
+manhattan,"two bridges",72,21652,0.3325
+manhattan,"battery park city",70,21652,0.3233
+queens,laurelton,18,5662,0.3179
+brooklyn,brownsville,61,20088,0.3037
+queens,bayswater,17,5662,0.3002
+brooklyn,"fort hamilton",55,20088,0.2738
+"staten island",woodrow,1,373,0.2681
+"staten island","fort wadsworth",1,373,0.2681
+"staten island","new dorp",1,373,0.2681
+"staten island",rossville,1,373,0.2681
+"staten island",willowbrook,1,373,0.2681
+"staten island",richmondtown,1,373,0.2681
+queens,hollis,14,5662,0.2473
+queens,bellerose,14,5662,0.2473
+manhattan,"civic center",52,21652,0.2402
+brooklyn,"columbia st",42,20088,0.2091
+queens,edgemere,11,5662,0.1943
+queens,whitestone,11,5662,0.1943
+bronx,"west farms",2,1089,0.1837
+bronx,"co-op city",2,1089,0.1837
+brooklyn,dumbo,36,20088,0.1792
+manhattan,"stuyvesant town",37,21652,0.1709
+brooklyn,"vinegar hill",34,20088,0.1693
+queens,"jamaica hills",8,5662,0.1413
+queens,"belle harbor",8,5662,0.1413
+queens,douglaston,8,5662,0.1413
+queens,"bay terrace",6,5662,0.1060
+queens,"little neck",5,5662,0.0883
+brooklyn,"coney island",17,20088,0.0846
+brooklyn,"bath beach",17,20088,0.0846
+queens,holliswood,4,5662,0.0706
+brooklyn,"navy yard",14,20088,0.0697
+brooklyn,"dyker heights",12,20088,0.0597
+manhattan,"marble hill",12,21652,0.0554
+queens,"breezy point",3,5662,0.0530
+queens,neponsit,3,5662,0.0530
+brooklyn,"bergen beach",10,20088,0.0498
+brooklyn,"manhattan beach",8,20088,0.0398
+brooklyn,"sea gate",7,20088,0.0348
+brooklyn,"mill basin",4,20088,0.0199

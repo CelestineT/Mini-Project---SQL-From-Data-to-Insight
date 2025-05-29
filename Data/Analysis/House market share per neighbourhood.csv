@@ -1,0 +1,100 @@
+borough,neighborhood,total_listings_neighborhood,total_listings_borough,neighborhood_share
+brooklyn,"bedford stuyvesant",944,12772,7.3912
+manhattan,"upper east side (79-96)",479,7187,6.6648
+manhattan,"upper east side (59-79)",451,7187,6.2752
+manhattan,"upper west side (59-79)",446,7187,6.2056
+manhattan,harlem-central,441,7187,6.1361
+manhattan,"lower east side",416,7187,5.7882
+manhattan,"midtown west",407,7187,5.6630
+brooklyn,"east new york",703,12772,5.5042
+manhattan,tribeca,385,7187,5.3569
+brooklyn,canarsie,612,12772,4.7917
+manhattan,chelsea,296,7187,4.1185
+brooklyn,"borough park",519,12772,4.0636
+manhattan,"upper west side (79-96)",271,7187,3.7707
+brooklyn,flatbush-east,468,12772,3.6643
+brooklyn,bushwick,451,12772,3.5312
+manhattan,"midtown east",247,7187,3.4368
+manhattan,"murray hill",246,7187,3.4228
+manhattan,"civic center",244,7187,3.3950
+manhattan,gramercy,244,7187,3.3950
+brooklyn,"crown heights",433,12772,3.3902
+manhattan,financial,234,7187,3.2559
+manhattan,"greenwich village-west",221,7187,3.0750
+manhattan,soho,221,7187,3.0750
+brooklyn,"sheepshead bay",373,12772,2.9205
+brooklyn,gravesend,371,12772,2.9048
+brooklyn,greenpoint,356,12772,2.7873
+brooklyn,"bay ridge",348,12772,2.7247
+manhattan,"javits center",186,7187,2.5880
+brooklyn,williamsburg-east,329,12772,2.5759
+brooklyn,williamsburg-north,329,12772,2.5759
+brooklyn,flatbush-central,321,12772,2.5133
+brooklyn,bensonhurst,304,12772,2.3802
+brooklyn,"sunset park",298,12772,2.3332
+manhattan,"greenwich village-central",166,7187,2.3097
+manhattan,"kips bay",162,7187,2.2541
+brooklyn,"park slope",279,12772,2.1845
+manhattan,harlem-east,151,7187,2.1010
+brooklyn,"ocean parkway-north",265,12772,2.0749
+brooklyn,flatbush-north,263,12772,2.0592
+brooklyn,"ocean hill",255,12772,1.9966
+manhattan,"midtown cbd",141,7187,1.9619
+manhattan,clinton,137,7187,1.9062
+brooklyn,midwood,242,12772,1.8948
+manhattan,flatiron,134,7187,1.8645
+brooklyn,"cypress hills",225,12772,1.7617
+brooklyn,madison,211,12772,1.6521
+brooklyn,"marine park",200,12772,1.5659
+manhattan,"manhattan valley",112,7187,1.5584
+manhattan,chinatown,99,7187,1.3775
+brooklyn,"bath beach",173,12772,1.3545
+brooklyn,"dyker heights",169,12772,1.3232
+brooklyn,brownsville,161,12772,1.2606
+brooklyn,"bergen beach",160,12772,1.2527
+brooklyn,"old mill basin",159,12772,1.2449
+manhattan,"east village",89,7187,1.2383
+brooklyn,"brighton beach",152,12772,1.1901
+brooklyn,"clinton hill",151,12772,1.1823
+manhattan,fashion,84,7187,1.1688
+manhattan,"upper west side (96-116)",81,7187,1.1270
+manhattan,harlem-upper,79,7187,1.0992
+brooklyn,"fort greene",140,12772,1.0961
+brooklyn,"carroll gardens",140,12772,1.0961
+brooklyn,"ocean parkway-south",139,12772,1.0883
+brooklyn,gowanus,134,12772,1.0492
+brooklyn,"downtown-fulton mall",128,12772,1.0022
+brooklyn,"prospect heights",125,12772,0.9787
+brooklyn,"park slope south",124,12772,0.9709
+manhattan,"washington heights lower",69,7187,0.9601
+brooklyn,williamsburg-south,122,12772,0.9552
+brooklyn,flatlands,109,12772,0.8534
+brooklyn,"cobble hill",107,12772,0.8378
+brooklyn,"gerritsen beach",103,12772,0.8065
+manhattan,"washington heights upper",57,7187,0.7931
+brooklyn,"brooklyn heights",97,12772,0.7595
+brooklyn,"boerum hill",95,12772,0.7438
+manhattan,"alphabet city",51,7187,0.7096
+brooklyn,"coney island",90,12772,0.7047
+brooklyn,williamsburg-central,90,12772,0.7047
+brooklyn,"flatbush-lefferts garden",84,12772,0.6577
+brooklyn,"downtown-fulton ferry",81,12772,0.6342
+manhattan,"little italy",44,7187,0.6122
+brooklyn,"cobble hill-west",77,12772,0.6029
+brooklyn,"windsor terrace",77,12772,0.6029
+brooklyn,downtown-metrotech,65,12772,0.5089
+brooklyn,"red hook",65,12772,0.5089
+brooklyn,"mill basin",62,12772,0.4854
+brooklyn,kensington,62,12772,0.4854
+brooklyn,"wyckoff heights",58,12772,0.4541
+manhattan,southbridge,29,7187,0.4035
+brooklyn,"manhattan beach",50,12772,0.3915
+brooklyn,"spring creek",49,12772,0.3837
+manhattan,inwood,27,7187,0.3757
+manhattan,harlem-west,19,7187,0.2644
+brooklyn,"bush terminal",32,12772,0.2505
+brooklyn,seagate,28,12772,0.2192
+manhattan,"roosevelt island",12,7187,0.1670
+brooklyn,"navy yard",15,12772,0.1174
+manhattan,"upper east side (96-110)",7,7187,0.0974
+manhattan,"morningside heights",2,7187,0.0278

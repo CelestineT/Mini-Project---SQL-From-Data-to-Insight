@@ -1,0 +1,49 @@
+neighborhood,borough,roi_percentage,avg_roi_borough
+"civic center",manhattan,81.94,-1.2338461538461538
+soho,manhattan,2.39,-1.2338461538461538
+"navy yard",brooklyn,-1.17,-9.672285714285714
+"brighton beach",brooklyn,-4.46,-9.672285714285714
+tribeca,manhattan,-5.37,-1.2338461538461538
+inwood,manhattan,-6.13,-1.2338461538461538
+"crown heights",brooklyn,-7.07,-9.672285714285714
+"prospect heights",brooklyn,-7.21,-9.672285714285714
+"bay ridge",brooklyn,-7.25,-9.672285714285714
+"morningside heights",manhattan,-7.27,-1.2338461538461538
+"bergen beach",brooklyn,-7.34,-9.672285714285714
+"cobble hill",brooklyn,-7.53,-9.672285714285714
+flatlands,brooklyn,-7.8,-9.672285714285714
+"east new york",brooklyn,-7.93,-9.672285714285714
+"cypress hills",brooklyn,-8.56,-9.672285714285714
+chinatown,manhattan,-8.67,-1.2338461538461538
+"coney island",brooklyn,-8.79,-9.672285714285714
+"boerum hill",brooklyn,-8.8,-9.672285714285714
+"clinton hill",brooklyn,-8.87,-9.672285714285714
+"park slope",brooklyn,-9.15,-9.672285714285714
+"fort greene",brooklyn,-9.21,-9.672285714285714
+bushwick,brooklyn,-9.5,-9.672285714285714
+"kips bay",manhattan,-9.73,-1.2338461538461538
+kensington,brooklyn,-9.78,-9.672285714285714
+canarsie,brooklyn,-9.84,-9.672285714285714
+"lower east side",manhattan,-9.86,-1.2338461538461538
+"murray hill",manhattan,-9.94,-1.2338461538461538
+greenpoint,brooklyn,-10.06,-9.672285714285714
+"little italy",manhattan,-10.09,-1.2338461538461538
+"sunset park",brooklyn,-10.33,-9.672285714285714
+"brooklyn heights",brooklyn,-10.38,-9.672285714285714
+"carroll gardens",brooklyn,-10.39,-9.672285714285714
+gramercy,manhattan,-10.4,-1.2338461538461538
+midwood,brooklyn,-10.58,-9.672285714285714
+"red hook",brooklyn,-10.59,-9.672285714285714
+"windsor terrace",brooklyn,-10.78,-9.672285714285714
+"east village",manhattan,-10.97,-1.2338461538461538
+gravesend,brooklyn,-11.31,-9.672285714285714
+"sheepshead bay",brooklyn,-11.6,-9.672285714285714
+brownsville,brooklyn,-11.79,-9.672285714285714
+chelsea,manhattan,-11.94,-1.2338461538461538
+bensonhurst,brooklyn,-12.17,-9.672285714285714
+"dyker heights",brooklyn,-12.41,-9.672285714285714
+gowanus,brooklyn,-12.57,-9.672285714285714
+"borough park",brooklyn,-12.82,-9.672285714285714
+"bath beach",brooklyn,-13.19,-9.672285714285714
+"mill basin",brooklyn,-13.27,-9.672285714285714
+"manhattan beach",brooklyn,-14.03,-9.672285714285714
