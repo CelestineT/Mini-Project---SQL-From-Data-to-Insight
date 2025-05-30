@@ -21,8 +21,7 @@ SELECT
     COUNT(*) AS total_listings
 FROM airbnb_listings
 WHERE price > 0
-GROUP BY neighbourhood, borough
-LIMIT 10;
+GROUP BY neighbourhood, borough;
 
 WITH airbnb_revenue AS (
     SELECT
